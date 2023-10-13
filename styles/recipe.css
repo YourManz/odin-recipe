@@ -12,3 +12,11 @@
 .ingredients-list {
     font-weight:300;
 }
+
+.darker {
+    color:black;
+}
+
+.highlight {
+    background-color: gold;
+}
