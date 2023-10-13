@@ -1,4 +1,14 @@
-.recipe-paragraph {
+.recipe-paragraph, 
+.ingredients-list, 
+.step-list {
     font-family:monospace;
+    color: #48494B;
+}
+
+.recipe-paragraph {
     font-weight:450;
+}
+
+.ingredients-list {
+    font-weight:300;
 }
