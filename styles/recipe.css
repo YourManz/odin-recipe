@@ -20,3 +20,10 @@
 .highlight {
     background-color: gold;
 }
+
+.flex-container {
+    display:flex;
+}
+.flex-item {
+    flex:1;
+}
